@@ -1,1 +1,0 @@
-import{z as o,D as r,U as u}from"./entry.90e804c6.js";async function s(){const e=o(!1);return r(()=>{u(()=>{e.value=!0}).then(t=>t);const n=document.getElementById("header-breadcrumbs");n&&(n.innerHTML="")}),{mounted:e}}export{s as u};
