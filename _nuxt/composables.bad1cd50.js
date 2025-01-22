@@ -1,1 +1,0 @@
-import{a6 as u,a7 as l}from"./entry.07f4fb3d.js";function m(e,a){const{title:r,titleTemplate:n,...o}=e;return u({title:r,titleTemplate:n,_flatMeta:o},{...a,transform(t){const s=l({...t._flatMeta});return delete t._flatMeta,{...t,meta:s}}})}const M=e=>m(e);export{M as u};

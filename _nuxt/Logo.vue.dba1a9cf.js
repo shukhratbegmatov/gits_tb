@@ -1,1 +1,0 @@
-import{d as e,v as s,o as n,c,l as t}from"./entry.07f4fb3d.js";const a=["src"],p=e({__name:"Logo",setup(r){const{locale:o}=s();return(l,_)=>(n(),c("img",{src:`/logo/${t(o)}.svg`,alt:"Main logo"},null,8,a))}});export{p as _};
